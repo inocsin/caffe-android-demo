@@ -21,6 +21,12 @@
         android:layout_height="wrap_content"
         android:text="select an image" />
 
+    <TextView
+        android:id="@+id/debugMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="debug message"/>
+    
     <RelativeLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" >
